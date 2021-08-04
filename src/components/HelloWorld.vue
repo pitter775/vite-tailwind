@@ -2,7 +2,7 @@
   <div class="">
     <div class="w-full p-3 flex border-b md:px-20 lg:px-52 bg-white bg-opacity-50">
       <button @click="openWebPage('https://vercel.com/')" type="button" name="button">
-        <img src="../assets/vercel.png" class="h-11" alt="">
+        <img src="../assets/pitterbico.jpg" class="h-11" alt="">
       </button>
     </div>
     <div class="text-3xl uppercase font-extrabold p-12 text-center">
