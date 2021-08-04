@@ -6,19 +6,19 @@
       </button>
     </div>
     <div class="text-3xl uppercase font-extrabold p-12 text-center">
-      Deploying a <span class="gradient-text blue">Vue,</span> <span class="gradient-text green">Vite,</span> and <span class="gradient-text purple">Tailwind</span> project to <span class="gradient-text orange">Vercel</span>
+      Olha <span class="gradient-text green">Michael,</span> eu subi uma aplicação <span class="gradient-text blue">Vue,</span> <span class="gradient-text green">Vite,</span> e <span class="gradient-text purple">Tailwind</span> de um projeto na  <span class="gradient-text orange">Vercel</span>
     </div>
     <div class="md:flex md:px-20 lg:px-52">
       <div class="md:w-1/2 p-4">
         <div class="bg-white p-6 shadow-xl rounded h-full">
-          <p class="font-semibold text-2xl pb-4">Guide</p>
+          <p class="font-semibold text-2xl pb-4">Titulo</p>
           <div class="p-4 rounded border overflow-auto h-80" style="background-color: #fafafa;">
             <BlogPost />
           </div>
-          <button @click="openWebPage('https://vercel.com/blog/integrations-marketplace')" type="button" name="button" class="flex items-center pt-4 text-gray-500 hover:text-blue-500">
+          <!-- <button @click="openWebPage('https://vercel.com/blog/integrations-marketplace')" type="button" name="button" class="flex items-center pt-4 text-gray-500 hover:text-blue-500">
             <p class="text-sm mr-2">View Full Blog</p>
             <i class="fas fa-arrow-right text-xs"></i>
-          </button>
+          </button> -->
         </div>
       </div>
       <!-- <div class="md:w-1/2 p-4">
@@ -35,7 +35,7 @@
       </div> -->
       <div class="md:w-1/2 p-4">
         <div class="p-6 border rounded overflow-hidden h-full" style="background-color: #fafafa;">
-          <p class="font-semibold text-2xl pb-4">Learn More</p>
+          <p class="font-semibold text-2xl pb-4">Usando esses componentes abaixo</p>
           <div class="flex flex-wrap">
             <div class="md:w-1/2">
               <div class="px-2 py-4">
