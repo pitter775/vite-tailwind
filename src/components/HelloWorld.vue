@@ -11,7 +11,7 @@
     <div class="md:flex md:px-20 lg:px-52">
       <div class="md:w-1/2 p-4">
         <div class="bg-white p-6 shadow-xl rounded h-full">
-          <p class="font-semibold text-2xl pb-4">Titulo</p>
+          <p class="font-semibold text-2xl pb-4">Titulo do card</p>
           <div class="p-4 rounded border overflow-auto h-80" style="background-color: #fafafa;">
             <BlogPost />
           </div>
